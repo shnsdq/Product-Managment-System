@@ -1,0 +1,29 @@
+.body{
+	margin:0;
+}
+
+.errorMessage{
+	background:red;
+	color:#fff;
+	padding:8px;
+}
+
+.message{
+	background:green;
+	color:#fff;
+	padding:8px
+}
+
+table{
+	border-collapse:collapse;
+	border:1px solid;
+}
+
+td,th{
+	border:1px solid;
+	padding:6px;
+}
+
+th{
+	background:skyblue;
+}
